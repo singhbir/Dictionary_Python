@@ -1,6 +1,6 @@
-#DICTIONARY APPLICATION
+## DICTIONARY APPLICATION
 
-###**LIBRARY's NEEDED**
+### **LIBRARY's NEEDED**
 
 1. **import json** -for reading json file
 2. **import difflib** -for giving suggestions 
